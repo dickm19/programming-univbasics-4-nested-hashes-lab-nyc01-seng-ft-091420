@@ -85,7 +85,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    :yukihiro_matsumoto
+    yukihiro_matsumoto
 end
 
 def changing_alan
